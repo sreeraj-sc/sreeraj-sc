@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me https://instagram.com/_.its._.sreeraj._?utm_medium=copy_link
+- 📫 How to reach me ? https://sreeraj-sc.github.io/socialmedia_tree/
 
 <!---
 sreeraj-sc/sreeraj-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
